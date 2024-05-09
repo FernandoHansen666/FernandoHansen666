@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando Hansen
-- 🌱 I’m currently learning Java and Python
-- 🐱‍💻 I really like CyberSecurity
+- 🌱 I’m currently learning Python
+- 🐱‍💻 I really like CyberSecurity and Hardware Hacking
 
 
 <!---
